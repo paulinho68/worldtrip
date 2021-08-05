@@ -13,30 +13,39 @@ import SwiperCore, {
     Pagination, Navigation
 } from 'swiper/core';
 
-
 // install Swiper modules
 SwiperCore.use([Pagination, Navigation]);
 
-export function Slide() {
+type Continent = {
+    id: string;
+    title: string;
+    subtitle: string;
+    continentImage: string;
+}
+
+interface ContinentsProps {
+    continents: Continent[];
+}
+
+export function Slide({ continents }: ContinentsProps) {
     return (
         <Flex w="100%" h={["250px", "450px"]} maxW="1240px" mx="auto" mb={["5", "10"]} mt={["28px", "52px"]}>
             <Swiper slidesPerView={1} spaceBetween={30} loop={true} pagination={{
                 "clickable": true,
             }} navigation={true} >
-                <SwiperSlide className="mySwiper">
-                    <Image w="100%" h="100%" align="center" src="/banners/europe.svg" alt="Europe" />
-                    <Box align="center" position="absolute" top="50%" left="50%" transform="translate(-50%, -50%)">
-                        <Text color="background.primary" fontSize={["24", "48"]}>
-                            Europa
-                        </Text>
-                        <Text color="#DADADA" fontSize={["14", "24"]}>
-                            O continente mais antigo.
-                        </Text>
-                    </Box>
-                </SwiperSlide>
-                <SwiperSlide>Slide 2</SwiperSlide>
-                <SwiperSlide>Slide 3</SwiperSlide>
-                <SwiperSlide>Slide 4</SwiperSlide>
+                {!!continents[0] && continents.map(continent => (
+                    <SwiperSlide className="mySwiper" key={continent.id}>
+                        <Image opacity="87%" objectFit="cover" w="100%" h="100%" align="center" src={continent.continentImage} alt="Europe" />
+                        <Box align="center" position="absolute" top="50%" left="50%" transform="translate(-50%, -50%)">
+                            <Text color="background.primary" fontSize={["24", "48"]}>
+                                {continent.title}
+                            </Text>
+                            <Text color="#DADADA" fontSize={["14", "24"]}>
+                                {continent.subtitle}
+                            </Text>
+                        </Box>
+                    </SwiperSlide>
+                ))}
             </Swiper>
         </Flex>
     )

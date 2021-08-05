@@ -1,0 +1,238 @@
+{
+    "continents": [
+        {
+            "id": "europe",
+            "title": "Europa",
+            "subtitle": "Muitos pontos turísticos.",
+            "continentImage": "/images/europe-banner.jpg",
+            "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+            "countries": 55,
+            "languages": 60,
+            "hundreadPlus": [
+                {
+                    "id": 1,
+                    "name": "Londres",
+                    "country": "Reino Unido",
+                    "image": "/images/london.jpg",
+                    "countryIcon": "/flags/flag-united-kingdom.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Paris",
+                    "country": "França",
+                    "image": "/images/paris.jpg",
+                    "countryIcon": "/flags/flag-france.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Roma",
+                    "country": "Itália",
+                    "image": "/images/rome.jpg",
+                    "countryIcon": "/flags/flag-italy.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Praga",
+                    "country": "República Tcheca",
+                    "image": "/images/praga.jpg",
+                    "countryIcon": "/flags/Flag_of_the_Czech_Republic.jpg"
+                },
+                {
+                    "id": 5,
+                    "name": "Amsterdã",
+                    "country": "Holanda",
+                    "image": "/images/amsterdam.jpg",
+                    "countryIcon": "/flags/Flag_of_the_Netherlands.jpg"
+                }
+            ]
+        },
+        {
+            "id": "america-do-sul",
+            "title": "América do Sul",
+            "subtitle": "O melhor lugar para se curtir a natureza.",
+            "continentImage": "/images/south-america.jpg",
+            "description": "A américa Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et egestas elit, laoreet congue sem. Quisque sed blandit tellus, sagittis malesuada nisi. Fusce a mollis felis. Cras vel tellus molestie, sagittis leo ultrices, convallis velit. Donec nec convallis enim. Pellentesque tempus, sapien quis volutpat pulvinar, felis odio pellentesque urna, non suscipit velit mauris vitae lorem. Curabitur ut leo arcu. Fusce vel posuere arcu. Integer pellentesque vitae augue nec fermentum.",
+            "countries": 40,
+            "languages": 12,
+            "hundreadPlus": [
+                {
+                    "id": 6,
+                    "name": "Fortaleza",
+                    "country": "Brasil",
+                    "image": "/images/fortaleza.jpg",
+                    "countryIcon": "/flags/flag-brazil.jpg"
+                },
+                {
+                    "id": 7,
+                    "name": "Rio de Janeiro",
+                    "country": "Brasil",
+                    "image": "/images/rio-de-janeiro.jpg",
+                    "countryIcon": "/flags/flag-brazil.jpg"
+                },
+                {
+                    "id": 8,
+                    "name": "Montevideu",
+                    "country": "Uruguai",
+                    "image": "/images/montevideu.jpg",
+                    "countryIcon": "/flags/flag-uy.jpg"
+                },
+                {
+                    "id": 9,
+                    "name": "Buenos Aires",
+                    "country": "Argentina",
+                    "image": "/images/buenos-aires.jpg",
+                    "countryIcon": "/flags/argentina.jpg"
+                }
+            ]
+        },
+        {
+            "id": "america-do-norte",
+            "title": "América do Norte",
+            "subtitle": "Os melhores eventos estão aqui.",
+            "continentImage": "/images/north-america.jpg",
+            "description": "A américa Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et egestas elit, laoreet congue sem. Quisque sed blandit tellus, sagittis malesuada nisi. Fusce a mollis felis. Cras vel tellus molestie, sagittis leo ultrices, convallis velit. Donec nec convallis enim. Pellentesque tempus, sapien quis volutpat pulvinar, felis odio pellentesque urna, non suscipit velit mauris vitae lorem. Curabitur ut leo arcu. Fusce vel posuere arcu. Integer pellentesque vitae augue nec fermentum.",
+            "countries": 40,
+            "languages": 12,
+            "hundreadPlus": [
+                {
+                    "id": 6,
+                    "name": "Chicago",
+                    "country": "Estados Unidos",
+                    "image": "/images/chicago.jpg",
+                    "countryIcon": "/flags/usa.jpg"
+                },
+                {
+                    "id": 7,
+                    "name": "Toronto",
+                    "country": "Canadá",
+                    "image": "/images/toronto.jpg",
+                    "countryIcon": "/flags/canada.jpg"
+                },
+                {
+                    "id": 8,
+                    "name": "Vancouver",
+                    "country": "Canadá",
+                    "image": "/images/vancouver.jpg",
+                    "countryIcon": "/flags/canada.jpg"
+                },
+                {
+                    "id": 9,
+                    "name": "Los Angeles",
+                    "country": "Estados Unidos",
+                    "image": "/images/los-angeles.jpg",
+                    "countryIcon": "/flags/usa.jpg"
+                }
+            ]
+        },
+        {
+            "id": "asia",
+            "title": "Ásia",
+            "subtitle": "O melhor do oriente médio",
+            "continentImage": "/images/asia.jpg",
+            "description": "A Ásia Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et egestas elit, laoreet congue sem. Quisque sed blandit tellus, sagittis malesuada nisi. Fusce a mollis felis. Cras vel tellus molestie, sagittis leo ultrices, convallis velit. Donec nec convallis enim. Pellentesque tempus, sapien quis volutpat pulvinar, felis odio pellentesque urna, non suscipit velit mauris vitae lorem. Curabitur ut leo arcu. Fusce vel posuere arcu. Integer pellentesque vitae augue nec fermentum.",
+            "countries": 80,
+            "languages": 95,
+            "hundreadPlus": [
+                {
+                    "id": 10,
+                    "name": "Tóquio",
+                    "country": "Japão",
+                    "image": "/images/tokio.jpg",
+                    "countryIcon": "/flags/japan.jpg"
+                },
+                {
+                    "id": 11,
+                    "name": "Seul",
+                    "country": "Coréia do sul",
+                    "image": "/images/seoul.jpg",
+                    "countryIcon": "/flags/south-korea.jpg"
+                },
+                {
+                    "id": 12,
+                    "name": "Hong Kong",
+                    "country": "China",
+                    "image": "/images/hong-kong.jpg",
+                    "countryIcon": "/flags/china.jpg"
+                },
+                {
+                    "id": 13,
+                    "name": "Xangai",
+                    "country": "China",
+                    "image": "/images/xangai.jpg",
+                    "countryIcon": "/flags/china.jpg"
+                },
+                {
+                    "id": 14,
+                    "name": "Nova Dehli",
+                    "country": "India",
+                    "image": "/images/new-dehli.jpg",
+                    "countryIcon": "/flags/india.jpg"
+                }
+            ]
+        },
+        {
+            "id": "africa",
+            "title": "África",
+            "subtitle": "Uma cultura única e diferente de tudo que você já viu.",
+            "continentImage": "/images/africa.jpg",
+            "description": "A África Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et egestas elit, laoreet congue sem. Quisque sed blandit tellus, sagittis malesuada nisi. Fusce a mollis felis. Cras vel tellus molestie, sagittis leo ultrices, convallis velit. Donec nec convallis enim. Pellentesque tempus, sapien quis volutpat pulvinar, felis odio pellentesque urna, non suscipit velit mauris vitae lorem. Curabitur ut leo arcu. Fusce vel posuere arcu. Integer pellentesque vitae augue nec fermentum.",
+            "countries": 70,
+            "languages": 60,
+            "hundreadPlus": [
+                {
+                    "id": 15,
+                    "name": "Cidade do Cabo",
+                    "country": "África do Sul",
+                    "image": "/images/cape-town.jpg",
+                    "countryIcon": "/flags/south-africa.jpg"
+                },
+                {
+                    "id": 16,
+                    "name": "Cairo",
+                    "country": "Egito",
+                    "image": "/images/cairo.jpg",
+                    "countryIcon": "/flags/egypt.jpg"
+                },
+                {
+                    "id": 17,
+                    "name": "Johannesburgo",
+                    "country": "África do Sul",
+                    "image": "/images/johannesburgo.jpg",
+                    "countryIcon": "/flags/south-africa.jpg"
+                }
+            ]
+        },
+        {
+            "id": "oceania",
+            "title": "Oceania",
+            "subtitle": "Esportes radicais e cidades incríveis",
+            "continentImage": "/images/oceania.jpg",
+            "description": "A Oceania Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et egestas elit, laoreet congue sem. Quisque sed blandit tellus, sagittis malesuada nisi. Fusce a mollis felis. Cras vel tellus molestie, sagittis leo ultrices, convallis velit. Donec nec convallis enim. Pellentesque tempus, sapien quis volutpat pulvinar, felis odio pellentesque urna, non suscipit velit mauris vitae lorem. Curabitur ut leo arcu. Fusce vel posuere arcu. Integer pellentesque vitae augue nec fermentum.",
+            "countries": 20,
+            "languages": 22,
+            "hundreadPlus": [
+                {
+                    "id": 18,
+                    "name": "Sidney",
+                    "country": "Austrália",
+                    "image": "/images/sydney.jpg",
+                    "countryIcon": "/flags/australia.jpg"
+                },
+                {
+                    "id": 19,
+                    "name": "Camberra",
+                    "country": "Austrália",
+                    "image": "/images/camberra.jpg",
+                    "countryIcon": "/flags/australia.jpg"
+                },
+                {
+                    "id": 20,
+                    "name": "Wellington",
+                    "country": "Nova zelândia",
+                    "image": "/images/wellington.jpg",
+                    "countryIcon": "/flags/new-zealand.jpg"
+                }
+            ]
+        }
+    ]
+}
