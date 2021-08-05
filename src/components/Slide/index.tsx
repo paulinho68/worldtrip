@@ -19,17 +19,17 @@ SwiperCore.use([Pagination, Navigation]);
 
 export function Slide() {
     return (
-        <Flex w="100%" h={["250px", "450px"]} maxW="1240px" mx="auto" mb={["5", "10"]} mt="52px">
+        <Flex w="100%" h={["250px", "450px"]} maxW="1240px" mx="auto" mb={["5", "10"]} mt={["28px", "52px"]}>
             <Swiper slidesPerView={1} spaceBetween={30} loop={true} pagination={{
                 "clickable": true,
             }} navigation={true} >
                 <SwiperSlide className="mySwiper">
                     <Image w="100%" h="100%" align="center" src="/banners/europe.svg" alt="Europe" />
                     <Box align="center" position="absolute" top="50%" left="50%" transform="translate(-50%, -50%)">
-                        <Text color="background.primary">
+                        <Text color="background.primary" fontSize={["24", "48"]}>
                             Europa
                         </Text>
-                        <Text color="background.primary">
+                        <Text color="#DADADA" fontSize={["14", "24"]}>
                             O continente mais antigo.
                         </Text>
                     </Box>
