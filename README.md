@@ -1,5 +1,5 @@
 # Worldtrip
-*O Desafio* é criar um blog com Next | FaunaDB | Prismic | Stripe
+*O Desafio* é criar um blog com Next | Chakra-UI | Swiper
 
 ## Sobre o desafio 🚀?
 Nesse desafio você deve criar do zero um blog que lista os todos os continentes, e ao clicar em um deles você é redirecionado para uma tela com mais detalhes.
