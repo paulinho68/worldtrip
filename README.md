@@ -36,4 +36,4 @@ Neste desafio foi usado as seguintes dependências:
 
 ![Application](https://raw.githubusercontent.com/paulinho68/worldtrip/master/assets/print3.png)
 
-![Application](https://raw.githubusercontent.com/paulinho68/worldtrip/master/assets/print4.png)
+![Application](https://raw.githubusercontent.com/paulinho68/worldtrip/main/assets/print4.png)
