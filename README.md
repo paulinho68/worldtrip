@@ -1,34 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Worldtrip
+*O Desafio* é criar um blog com Next | FaunaDB | Prismic | Stripe
 
-## Getting Started
+## Sobre o desafio 🚀?
+Nesse desafio você deve criar do zero um blog que lista os todos os continentes, e ao clicar em um deles você é redirecionado para uma tela com mais detalhes.
 
-First, run the development server:
+- Página de home
+- Listar continentes (Carrossel)
+- Mostrar toda informação do continente em uma pág separada
+- Utilizar conceitos de SSG
+- Deixar telas responsivas
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Neste desafio foi usado as seguintes dependências:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- React.js
+- Next.JS
+- Typescript
+- Chakra-UI
+- Axios
+- Json-Server
+- Swiper
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Como testar o Worldtrip?
+1. clonar este projeto em sua máquina local.
+2. acessar a raiz do projeto através do seu terminal.
+3. rodar:
+    - `npm install` OR `yarn install`
+    - `npm run dev` OR `yarn dev`
+3. rodar em um terminal paralelo:
+    - `npm server` OR `yarn server`
+5. visitar a página http://localhost:3000/ no seu browser.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.tsx`.
+![Application](https://raw.githubusercontent.com/paulinho68/worldtrip/master/assets/print1.png)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+![Application](https://raw.githubusercontent.com/paulinho68/worldtrip/master/assets/print2.png)
 
-## Learn More
+![Application](https://raw.githubusercontent.com/paulinho68/worldtrip/master/assets/print3.png)
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Application](https://raw.githubusercontent.com/paulinho68/worldtrip/master/assets/print4.png)
