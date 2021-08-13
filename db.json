@@ -60,28 +60,28 @@
                     "name": "Fortaleza",
                     "country": "Brasil",
                     "image": "/images/fortaleza.jpg",
-                    "countryIcon": "/flags/flag-brazil.jpg"
+                    "countryIcon": "/flags/flag-brazil.png"
                 },
                 {
                     "id": 7,
                     "name": "Rio de Janeiro",
                     "country": "Brasil",
                     "image": "/images/rio-de-janeiro.jpg",
-                    "countryIcon": "/flags/flag-brazil.jpg"
+                    "countryIcon": "/flags/flag-brazil.png"
                 },
                 {
                     "id": 8,
                     "name": "Montevideu",
                     "country": "Uruguai",
                     "image": "/images/montevideu.jpg",
-                    "countryIcon": "/flags/flag-uy.jpg"
+                    "countryIcon": "/flags/flag-uy.png"
                 },
                 {
                     "id": 9,
                     "name": "Buenos Aires",
                     "country": "Argentina",
                     "image": "/images/buenos-aires.jpg",
-                    "countryIcon": "/flags/argentina.jpg"
+                    "countryIcon": "/flags/argentina.png"
                 }
             ]
         },
@@ -99,28 +99,28 @@
                     "name": "Chicago",
                     "country": "Estados Unidos",
                     "image": "/images/chicago.jpg",
-                    "countryIcon": "/flags/usa.jpg"
+                    "countryIcon": "/flags/usa.png"
                 },
                 {
                     "id": 7,
                     "name": "Toronto",
                     "country": "Canadá",
                     "image": "/images/toronto.jpg",
-                    "countryIcon": "/flags/canada.jpg"
+                    "countryIcon": "/flags/canada.png"
                 },
                 {
                     "id": 8,
                     "name": "Vancouver",
                     "country": "Canadá",
                     "image": "/images/vancouver.jpg",
-                    "countryIcon": "/flags/canada.jpg"
+                    "countryIcon": "/flags/canada.png"
                 },
                 {
                     "id": 9,
                     "name": "Los Angeles",
                     "country": "Estados Unidos",
                     "image": "/images/los-angeles.jpg",
-                    "countryIcon": "/flags/usa.jpg"
+                    "countryIcon": "/flags/usa.png"
                 }
             ]
         },
@@ -138,35 +138,35 @@
                     "name": "Tóquio",
                     "country": "Japão",
                     "image": "/images/tokio.jpg",
-                    "countryIcon": "/flags/japan.jpg"
+                    "countryIcon": "/flags/japan.png"
                 },
                 {
                     "id": 11,
                     "name": "Seul",
                     "country": "Coréia do sul",
                     "image": "/images/seoul.jpg",
-                    "countryIcon": "/flags/south-korea.jpg"
+                    "countryIcon": "/flags/south-korea.png"
                 },
                 {
                     "id": 12,
                     "name": "Hong Kong",
                     "country": "China",
                     "image": "/images/hong-kong.jpg",
-                    "countryIcon": "/flags/china.jpg"
+                    "countryIcon": "/flags/china.png"
                 },
                 {
                     "id": 13,
                     "name": "Xangai",
                     "country": "China",
                     "image": "/images/xangai.jpg",
-                    "countryIcon": "/flags/china.jpg"
+                    "countryIcon": "/flags/china.png"
                 },
                 {
                     "id": 14,
                     "name": "Nova Dehli",
                     "country": "India",
                     "image": "/images/new-dehli.jpg",
-                    "countryIcon": "/flags/india.jpg"
+                    "countryIcon": "/flags/india.png"
                 }
             ]
         },
@@ -184,21 +184,21 @@
                     "name": "Cidade do Cabo",
                     "country": "África do Sul",
                     "image": "/images/cape-town.jpg",
-                    "countryIcon": "/flags/south-africa.jpg"
+                    "countryIcon": "/flags/south-africa.png"
                 },
                 {
                     "id": 16,
                     "name": "Cairo",
                     "country": "Egito",
                     "image": "/images/cairo.jpg",
-                    "countryIcon": "/flags/egypt.jpg"
+                    "countryIcon": "/flags/egypt.png"
                 },
                 {
                     "id": 17,
                     "name": "Johannesburgo",
                     "country": "África do Sul",
                     "image": "/images/johannesburgo.jpg",
-                    "countryIcon": "/flags/south-africa.jpg"
+                    "countryIcon": "/flags/south-africa.png"
                 }
             ]
         },
@@ -216,21 +216,21 @@
                     "name": "Sidney",
                     "country": "Austrália",
                     "image": "/images/sydney.jpg",
-                    "countryIcon": "/flags/australia.jpg"
+                    "countryIcon": "/flags/australia.png"
                 },
                 {
                     "id": 19,
                     "name": "Camberra",
                     "country": "Austrália",
                     "image": "/images/camberra.jpg",
-                    "countryIcon": "/flags/australia.jpg"
+                    "countryIcon": "/flags/australia.png"
                 },
                 {
                     "id": 20,
                     "name": "Wellington",
                     "country": "Nova zelândia",
                     "image": "/images/wellington.jpg",
-                    "countryIcon": "/flags/new-zealand.jpg"
+                    "countryIcon": "/flags/new-zealand.png"
                 }
             ]
         }
