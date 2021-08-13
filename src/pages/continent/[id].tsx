@@ -110,7 +110,6 @@ export const getStaticPaths: GetStaticPaths = async () => {
 export const getStaticProps: GetStaticProps = async ({ params }) => {
     const { id } = params;
     const response = await api.get(`/continents/${id}`);
-    console.log(response);
 
     const continent = {
         id,
